@@ -1,4 +1,2 @@
 # World Development Explorer - An Overview
-## FFGSFSDF
-### FEARERW
-**DFSDFSDFSF**
+As it explains from the title itself that this report will be consisting of 
