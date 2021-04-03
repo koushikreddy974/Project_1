@@ -53,7 +53,10 @@ Being the Second highest populated country after China, India has the worst infa
 ### Male Infant Death Analysis:-  
 Starting at a even more devastating number of 1.1 Million deaths of male infants in the 1995, India managed to control the number over the decade and has seen a similar decrease in the number of deaths and stood at 792 Thousand at the end of 2005. Like the female death count, even the male death count has a decrease of around 300 Thousand per year for the whole decade and in some years it is even more. 
 
-We can see the comparison of both male and female death counts of India from the years 1995-2005 in the below bubble+line plot for a vivid picture.
+We can see the comparison of both male and female death counts of India from the years 1995-2005 in the below bubble+line plot for a vivid picture.  
+
+<img width="986" alt="India - Male vs Female Deaths 1995-2005" src="https://user-images.githubusercontent.com/77987988/113477136-ecbaf480-944d-11eb-8fd0-e86056959224.png">  
+Comparison of Female & Male Infant Deaths of India between 1995-2005  
 
 
 ## ***iii. UNITED STATES:- (Represented by the Blue Colour in the Lineplot)***  
