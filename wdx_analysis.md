@@ -60,16 +60,17 @@ Comparison of Female & Male Infant Deaths of India between 1995-2005
 
 
 ## ***iii. UNITED STATES:- (Represented by the Blue Colour in the Lineplot)***  
-### Female Infant Death Analysis:-    
-### Male Infant Death Analysis:-   
+### Female & Male Infant Death Analysis:- 
+We can observe from the lineplot that United States has the least deaths of female as well as male infants starting from 1995 till 2005. United States  has continuously managed to keep their record as low as possible. The same is visible from their number of infant deaths over the decade. In 1995, the female infant deaths were mere 13.7 Thousand whereas the male infants death count was 17.6 Thousand. Considering the population of the United States of 266.2 Million in 1995, it can be  concluded that they are controlling the overall mortality rate of the country in a commendable manner. Looking at the figures over the decade, it is clear that, even though their infants mortality rate is low, they've managed to control it further through their excellent health facilities. We can observe that there is a decrease in the deaths every year when compared to the previous years for female as well as male infants. At the end of 2005, the female death count was 12.1 Thousand and the Male death count was 15.6 Thousand. At the end of 2005, the United States population was 295.5 Million which is equally low when compared to the population of China and India. It is hence proved that, a well developed infrastructure and health care facilities is always a boon for a country.
+
 
 ## ***iv. PAKISTAN:-  (Represented by the Orange Colour in the Lineplot)***  
-### Female Infant Death Analysis:-    
-### Male Infant Death Analysis:-  
+### Female & Male Infant Death Analysis:-    
+
 
 ## ***v. BANGLADESH:-  (Represented by the Violet Colour in the Lineplot)***
-### Female Infant Death Analysis:-   
-### Male Infant Death Analysis:-  
+### Female & Male Infant Death Analysis:-   
+ 
 
 ## ***vi. NIGERIA:-  (Represented by the Purple Colour in the Lineplot)***
 ### Female Infant Death Analysis:-    
