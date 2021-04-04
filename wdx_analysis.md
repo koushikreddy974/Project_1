@@ -66,24 +66,28 @@ We can observe from the lineplot that United States has the least deaths of fema
 
 ## ***iv. PAKISTAN:-  (Represented by the Orange Colour in the Lineplot)***  
 ### Female & Male Infant Death Analysis:-    
+With a population of 123.7 Million in the year 1995, Pakistan had a female infant death count of 203 Thousand and male infant death count of 245 Thousand. Over the decade, the death counts of the female and male infants has seen a noticeable decline with female death count reaching 168 Thousand and male death count reaching 215 Thousand. At the end of 2005, the overall popualtion of Pakistan rose to 160.3 Million. Compared to India, China and United States, Pakistan doesn't have a huge change in the statistical figures.
 
 
 ## ***v. BANGLADESH:-  (Represented by the Violet Colour in the Lineplot)***
 ### Female & Male Infant Death Analysis:-   
+Out of the 115 Million Population of Bangladesh in 1995, around 129 Thousand female infants and 156 Thousand male infants lost their lives due to various mishaps. If we observe the trends of the female and male infant death counts, it is almost linearly changing over the decade. Hence, at the end of 2005, the overall population rose to 139 Million and the female and male infants death count stood at 74.6 Thousand and 90 Thousand respectively. Considering the low population, there is a possibility for such countries to control their mortality rate with proper planning and implementation.
  
 
 ## ***vi. NIGERIA:-  (Represented by the Purple Colour in the Lineplot)***
+Starting with a population of around 108 Million in the year 1995, Nigeria shows unbelievable figures in the deaths of female and male infants, over the decade. 
 ### Female Infant Death Analysis:-    
+Considering the low population of Nigeria, the female infant death count is really high at 246.6 Thousand in 1995, which kept rising at a rapid rate reaching a peak of 252 Thousand deaths in the year 1999. We can then observe that the number started to decrease at a low rate in the beginning but maintained to keep decreasing for the next couple of years in a significant manner after the year 2002. At the end of 2005, the female infants death count was 242.2 Thousand. 
 ### Male Infant Death Analysis:-   
+Similar trend is observed with the count of male infant deaths too, where a whopping 305 Thousand deaths of male infants were recorded in 1995, which went on to increase very rapidly to reach a peak of 313 Thousand deaths in the year 1999. After that period, the count fell in a significant manner and reached  242.4 Thousand at the end of the decade. 
 
+We can clearly observe the rapid changes in the figures of Nigeria in the below Lineplots for more clear picture.   
 
+![Nigeria Female Deaths 1995-2005](https://user-images.githubusercontent.com/77987988/113499753-643c6280-94e6-11eb-92b4-c2e07fb57bcc.png)
+Female Infant Deaths from 1995-2005
 
-
-
-
-
-
-
+![Nigeria Male Deaths 1995-2005](https://user-images.githubusercontent.com/77987988/113499755-6b637080-94e6-11eb-9078-c1142f8cb6dd.png)
+Male Infant Deaths from 1995-2005
 
 
 
