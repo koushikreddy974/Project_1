@@ -10,7 +10,6 @@ It makes me wonder :
 - Why does the count of infant deaths still keep increasing in some parts of the world?
 - How can this count be controlled?
 - What steps can be ensured to avoid the small mishaps that occur leading to many deaths in the world?
-- Who is responsible for these infant deaths? 
 
 To know the answers to all the questions above, let us analyze a part of data taken from the 
 World Development Indicator(WDI) that educates us about the various countries which shows statistical representation of the male and female infant death counts between the years 1995-2005.
@@ -102,11 +101,18 @@ vi. Nigeria - 138 Million (Least Populated)
 ![Total Population 2005](https://user-images.githubusercontent.com/77987988/113415794-f5e48c80-938d-11eb-893e-616ac6d63a13.png)
 Population for the Year 2005  
 
+In the below 2D scatterplots, we can observe the comparison of the female and male infant death counts starting in 1995 and the overall death counts at the end of the decade. i.e 2005.  
+
+![2D Scatterplot 1995](https://user-images.githubusercontent.com/77987988/113500148-b8951180-94e9-11eb-9cb3-73be03d49592.png)
+Comparison of Female vs Male Death Counts in 1995  
+
+![2D Scatterplot 2005](https://user-images.githubusercontent.com/77987988/113500158-d19dc280-94e9-11eb-86fd-ac45d81bad5f.png)
+Comparison of Female vs Male Death Counts in 2005  
+
 ## Conclusion:-
-From the analysis of various barplots, lineplots, bubble plots and 2D Scatter plots, we could see the numerous patterns that each country created. Every country had a different number of death counts and there weren't much similiarities in the pattern of one country to another. The reason for this is because of the functioning of each country is different, the beliefs of each country is different, the political system differs, difference in health care facilities, people's mindset in each country is different. Likewise there are many factors that affect the country's birth rate as well as the mortality rate. In country's like the United States, the extremely low mortality rate of infants is because of the proper health care establishment. And the most important factor that plays a huge role in separting these countries is the population of each country. Lower the population, higher the ways to control and achieve low infant mortality rates in the future. In countries like India and China, it is a big challenge for the governments to implement proper health care facilities and medical help to their citizens. Why?! Again because of the huge population in these countries. It can trake a lot of time in establishing these facilities and making sure that they are available to each and every individual in thir country, but it is not impossible to do so. It will take time but eventually, the alarming numbers can be controlled by follwing proper planning and implementation.
+From the analysis of various barplots, lineplots, bubble plots and 2D Scatter plots, we could see the numerous patterns that each country created. Every country had a different number of death counts and there weren't much similiarities in the pattern of one country to another. The reason for this is because of the functioning of each country is different, the beliefs of each country is different, the political system differs, difference in health care facilities, people's mindset in each country is different. Likewise there are many factors that affect the country's birth rate as well as the mortality rate. In country's like the United States, the extremely low mortality rate of infants is because of the proper health care establishment. And the most important factor that plays a huge role in separting these countries is the population of each country. Lower the population, higher the ways to control and achieve low infant mortality rates in the future. In countries like India and China, it is a big challenge for the governments to implement proper health care facilities and medical help to their citizens. Why?! Again because of the huge population in these countries. It can consume a lot of time in establishing these facilities and making sure that they are available to each and every individual in their country, but it is not impossible to do so. It will take time but eventually, the alarming numbers can be controlled by following proper planning and implementation.
 
 
 ## References:-   
 1. https://www.who.int/news-room/fact-sheets/detail/newborns-reducing-mortality#:~:text=There%20are%20approximately%207%20000,to%202.4%20million%20in%202019.
-2. 
 
